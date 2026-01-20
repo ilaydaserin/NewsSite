@@ -21,4 +21,4 @@ This study focuses on creating a high-fidelity web interface without the use of 
 * **News Grid:** A structured "Latest News" section for organized content delivery.
 * **Clean UI:** Focused on a professional and readable news portal experience.
 
-![News Portal Interface](img1/CSS\img1\Ekran görüntüsü 2026-01-20 181802.png)
+![News Portal Interface](CSS\img1\Ekran görüntüsü 2026-01-20 181802.png)
